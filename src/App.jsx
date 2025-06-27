@@ -1,5 +1,6 @@
 import React from 'react'
 import Test from './Component/Test/Test'
+import Tset2 from './Component/Test2/Tset2'
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate, nobis vitae. Laboriosam cumque assumenda, inventore tempora commodi ducimus dolorem debitis ab? Ratione commodi itaque deleniti eveniet esse saepe nulla eaque?
       </p>
       <Test/>
+      <Tset2/>
     </div>
   )
 }
