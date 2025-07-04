@@ -2,6 +2,7 @@ import React from 'react'
 import Test from './Component/Test/Test'
 import Tset2 from './Component/Test2/Tset2'
 import Videolink from './Component/Test2/Videolink'
+import Jadu from './Component/Jadu'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Test/>
       <Tset2/>
       <Videolink/>
+      <Jadu/>
       
     </div>
   )
