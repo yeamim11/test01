@@ -3,7 +3,7 @@ import Test from './Component/Test/Test'
 import Tset2 from './Component/Test2/Tset2'
 import Videolink from './Component/Test2/Videolink'
 import Jadu from './Component/Jadu'
-
+// import From from './Component/From/from'
 const App = () => {
   return (
     <div className=''>
@@ -15,6 +15,7 @@ const App = () => {
       <Tset2/>
       <Videolink/>
       <Jadu/>
+      {/* <From/> */}
       
     </div>
   )

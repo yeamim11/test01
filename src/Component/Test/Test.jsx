@@ -10,6 +10,9 @@ const Test = () => {
         <p className='text-2xl text-center bg-gray-500 text-gray-800'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus sunt dignissimos totam similique eaque magnam veniam dicta temporibus soluta nesciunt illum sit nulla vitae rem, consectetur eum vero ea optio.
         </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus sunt dignissimos totam similique eaque magnam veniam dicta temporibus soluta nesciunt illum sit nulla vitae rem, consectetur eum vero ea optio.
+        </p>
     </div>
   )
 }
